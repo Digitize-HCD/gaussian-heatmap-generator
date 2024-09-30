@@ -4,5 +4,5 @@ This software is developed to generate Gaussian heatmaps as ground-truth for com
 </div>
 
 <p align="center">
-<img src="images/image-1.png" width="400">
+<img src="images/image-1.png" width="700">
 </p>
